@@ -40,6 +40,10 @@ The UI has undergone a complete **dark cosmic glassmorphism overhaul**, creating
 
 The project follows a standard **Full-Stack Web3 Architecture**, where the frontend directly communicates with a Soroban Smart Contract deployed on the Stellar Testnet. 
 
+<div align="center">
+  <img src="./src/assets/architecture.jpeg" alt="System Architecture Diagram" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4); margin: 20px 0;"/>
+</div>
+
 ### 1. Frontend Layer (React + Vite)
 - **User Interface:** Written in React. Uses a single-page architecture where users navigate through cinematic scroll sections before reaching the main dashboard.
 - **Styling:** Custom Vanilla CSS utilizing CSS Grid, Flexbox, glassmorphism (`backdrop-filter`), and CSS variables for a consistent "dark cosmic" theme.
