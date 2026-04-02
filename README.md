@@ -21,6 +21,21 @@ The UI has undergone a complete **dark cosmic glassmorphism overhaul**, creating
 
 ---
 
+## 📸 Screenshots & Demo
+
+### Scroll Animations Demo
+![Demo Scroll Animation](./public/demo-scroll.webp)
+
+<p align="center">
+  <img src="./public/hero.png" width="48%" alt="Hero Section" />
+  <img src="./public/features.png" width="48%" alt="Features Section" />
+</p>
+<p align="center">
+  <img src="./public/console.png" width="100%" alt="Dashboard Console" />
+</p>
+
+---
+
 ## 🏗️ System Architecture
 
 The project follows a standard **Full-Stack Web3 Architecture**, where the frontend directly communicates with a Soroban Smart Contract deployed on the Stellar Testnet. 
